@@ -103,6 +103,7 @@ se obtiene una única salida y dicha salida representará efectivamente el valor
 <p>Validation accuracy (exactitud de validación) es el accuracy calculado en el conjunto de datos pertenecientes a la validación, estos son datos que el modelo no tuvo en 
   cuenta durante el entrenamiento y se utiliza para evaluar que tan bien generaliza el modelo ante datos nuevos.</p>
 <p>Estas dos métricas se comparan mediante gráficos para evaluar el rendimiento del modelo a lo largo del tiempo durante el entrenamiento.</p>
+
 ![grafico_accuracy](https://github.com/melisamessa/CNN_BrainTumorDetection/assets/105131503/6f2f5314-5cd4-468f-b33c-ded5098a8f9c)
 
 

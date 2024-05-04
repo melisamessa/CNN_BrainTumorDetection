@@ -1,5 +1,5 @@
 <h1>Red convolucional de clasificación binaria para la detección de tumores cerebrales</h1>
-<h3>Repositorio creado para la signatura Neuroscience of Learning Machines en la carrera de Ingeniería de Software de la Universidad Nacional del Centro de la Provincia de Buenos Aires de Tandil.</h3>
+<h3>Repositorio creado para la asignatura Neuroscience of Learning Machines en la carrera de Ingeniería de Software de la Universidad Nacional del Centro de la Provincia de Buenos Aires de Tandil.</h3>
 <h3>Fecha de realización: Septiembre 2023</h3>
 
 <h4>1. Introducción</h4>
